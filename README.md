@@ -2,3 +2,5 @@
 
 # Description
 This is based on a youtube video by 'The Cyber Mentor'. You can watch it using this [link](https://www.youtube.com/watch?v=u4VWQZ8KLmI&list=PLjaQX2KXOeb6zMFpvOdB59v_j4A_vT77q&index=2).
+
+Here we can find the resources and skillsets for everything that you need to know to become an ethical hacker.
