@@ -1,7 +1,9 @@
-## Executando Testes
+## Above and Beyond
 
-* Para rodar todos os testes:
+1) Strong desire to learn
+2) Non-complacency
+3) Social/people skills
+4) Perseverance
+5) Blog/Twitter/Etc.
 
-  ```
-    npm test
-  ```
+"10 strong connections are better than 1,000 weak ones"
