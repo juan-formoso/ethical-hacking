@@ -1,7 +1,57 @@
-## Executando aplicação
+## Beyond the Basics
 
-* Para rodar o back-end:
+I- Active Directory Hacking:
 
-  ```
-  cd api/ && npm start
-  ```
+- SkillSet:
+
+  *1. Can you explain Kerberos to me?*
+
+  *2. What is LLMNR poisoning?*
+
+  *3. What can be done with a valid TGT?*
+  
+  *4. What does the tool Incognito do?*
+
+- Resources:
+
+  > [Zero to Hero on YouTube](https://www.youtube.com/watch?v=WnN6dbos5u8&t=0s)
+
+II- Web App Hacking:
+
+- SkillSet:
+
+  *1. What is the OWASP top 10?*
+
+  *2. What is SQL injection?*
+
+  *3. How would you enumerate a Web App?*
+  
+  *4. What can Burp Suite be used for?*
+  
+- Resources:
+
+  > [PostSwigger Academy](https://portswigger.net/web-security)
+
+  > [Hacker101](https://www.hacker101.com/)
+  
+  > [BugCrowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/)
+
+  > [HackerOne Write-Ups](https://hackerone.com/hacktivity)
+
+III- Linux Skills:
+
+- SkillSet:
+
+  *1. Do you know how to navigate a terminal?*
+
+  *2. Can you install a program in Linux?*
+
+  *3. Can you write scripts to automate tasks in Bash?*
+
+- Resources:
+
+  > [Linux Journey](https://linuxjourney.com/)
+
+  > [OverTheWire's Bandit](https://overthewire.org/wargames/bandit/)
+  
+  > [Tons of Youtube Courses](https://www.youtube.com/watch?v=rZsJieGi8os&t=0s)
