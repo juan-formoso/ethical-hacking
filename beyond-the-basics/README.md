@@ -38,20 +38,18 @@ II- Web App Hacking:
 
   > [HackerOne Write-Ups](https://hackerone.com/hacktivity)
 
-III- Linux Skills:
+III- Wireless Hacking:
 
 - SkillSet:
 
-  *1. Do you know how to navigate a terminal?*
+  *1. What is a four-way handshake?*
 
-  *2. Can you install a program in Linux?*
+  *2. How do a WPA2 PSK and Enterprise differ?*
 
-  *3. Can you write scripts to automate tasks in Bash?*
+  *3. What can a tool like EAPHammer be used for?*
 
 - Resources:
 
-  > [Linux Journey](https://linuxjourney.com/)
+  > [Hacking WPA2 Personal](https://www.aircrack-ng.org/doku.php?id=cracking_wpa)
 
-  > [OverTheWire's Bandit](https://overthewire.org/wargames/bandit/)
-  
-  > [Tons of Youtube Courses](https://www.youtube.com/watch?v=rZsJieGi8os&t=0s)
+  > [Hacking WPA2 Enterprise](https://cyberpunk.xyz/targeted-wpa2-enterprise-evil-twin-attacks-eaphammer)
