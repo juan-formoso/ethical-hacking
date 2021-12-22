@@ -35,3 +35,21 @@ Networking Skills:
   > [Professor Messer Net+ Training](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/)
 
   > [NetAcad Packet Tracer](https://www.netacad.com/courses/packet-tracer)
+
+Linux Skills:
+
+- SkillSet:
+
+  *1. Do you know how to navigate a terminal?*
+
+  *2. Can you install a program in Linux?*
+
+  *3. Can you write scripts to automate tasks in Bash?*
+
+- Resources:
+
+  > [Linux Journey](https://linuxjourney.com/)
+
+  > [OverTheWire's Bandit](https://overthewire.org/wargames/bandit/)
+  
+  > [Tons of Youtube Courses](https://www.youtube.com/watch?v=rZsJieGi8os&t=0s)
