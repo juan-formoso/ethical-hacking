@@ -21,7 +21,7 @@ Here we can find the resources and skillsets for everything that you need to kno
 - Beyond the Basics
     1. Active Directory Pentesting;
     2. Web Application Ṕentesting;
-    3. Wireless Pentesting;
+    3. Wireless Pentesting.
 
 # Closing Thoughts
 "Run your race, not somebody else's."
