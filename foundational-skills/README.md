@@ -1,6 +1,6 @@
 ## Foundational Skills
 
-Basic IT Skills:
+I- Basic IT Skills:
 
 - SkillSet:
 
@@ -16,7 +16,8 @@ Basic IT Skills:
 
   > [Bitwit "How to Build a PC! Step-by-step"](https://www.youtube.com/watch?v=IhX0fOUYd8Q)
 
-Networking Skills:
+
+II- Networking Skills:
 
 - SkillSet:
 
@@ -36,7 +37,8 @@ Networking Skills:
 
   > [NetAcad Packet Tracer](https://www.netacad.com/courses/packet-tracer)
 
-Linux Skills:
+
+III- Linux Skills:
 
 - SkillSet:
 
@@ -54,7 +56,7 @@ Linux Skills:
   
   > [Tons of Youtube Courses](https://www.youtube.com/watch?v=rZsJieGi8os&t=0s)
 
-Coding Skills:
+IV- Coding Skills:
 
 - SkillSet:
 
