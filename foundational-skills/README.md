@@ -53,3 +53,21 @@ Linux Skills:
   > [OverTheWire's Bandit](https://overthewire.org/wargames/bandit/)
   
   > [Tons of Youtube Courses](https://www.youtube.com/watch?v=rZsJieGi8os&t=0s)
+
+Coding Skills:
+
+- SkillSet:
+
+  *1. Can you read code?*
+
+  *2. Do you know what a variable is?*
+
+  *3. How about a conditional statement?*
+  
+  *4. Highly recommend to start with Python3*
+
+- Resources:
+
+  > [CodeAcademyPython3](https://www.codecademy.com/)
+
+  > [freeCodeCamp](https://www.freecodecamp.org/)
